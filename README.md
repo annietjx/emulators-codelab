@@ -22,3 +22,7 @@ See [LICENSE](LICENSE)
 
 [codelab]: https://firebase.google.com/codelabs/firebase-emulator
 [pathway]: https://firebase.google.com/learn/pathways/firebase-emulators
+
+## Output
+<img width="387" alt="image" src="https://github.com/annietjx/emulators-codelab/assets/73708386/1018077a-2bf0-4db2-926e-763b81907d8f">
+
